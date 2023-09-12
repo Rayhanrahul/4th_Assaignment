@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+}
+.abbr{
+    height: 80px;
+    text-align: center;
+    background-color: aqua;
+    font-size:30px;
+    color: rgb(23, 22, 24);  
+}
+/*banner start*/
+bannar{
+    
+}
+.abr{
+    height: 150px;
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 35px;
+}
+/*banner end*/
+.main{
+    display: flex;
+}
+.add{
+    height: 200px;
+    width: 50%;
+    text-align: center;
+    font-size: 35px;
+    background-color: blue;
+}
+.add1{
+    height: 200px;
+    width: 50%;
+    text-align: center;
+    font-size: 35px;
+    background-color: blueviolet;
+}
+.nav{
+    display: flex;
+}
+.box1{
+    height: 100px;
+    width: 33.3%;
+    font-size: 35px;
+    text-align: center;
+    background-color: brown;
+}
+.box2{
+    height: 100px;
+    width: 33.3%;
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(240, 11, 11);
+}
+.box3{
+    height: 100px;
+    width: 33.3%;
+    font-size: 35px;
+    text-align: center;
+    background-color: brown;
+}
+.b_contend{
+    display: flex;
+}
+.cpoly{
+    height: 100px;
+    width: 65%;
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(42, 165, 114);
+}
+.cpoly1{
+    height: 100px;
+    width: 35%;
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(20, 20, 211);
+}
+footer{
+
+}
+.con{
+    height: 50px;
+    width: 100%;
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(233, 120, 120); 
+}
